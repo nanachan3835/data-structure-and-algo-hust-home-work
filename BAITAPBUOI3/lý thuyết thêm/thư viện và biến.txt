@@ -1,0 +1,25 @@
+
+
+
+
+thư viện trong c
+
+    climits trong c
+
+     - chưa thông tin về giới hạn của các kiểu số nguyên
+       lớn nhất nhỏ nhất các thứ
+
+    cfloat
+
+     -về giới hạn của dấu phẩy trong số thấp phân
+    cctype
+
+     -các hàm về kiểu chữ char 
+số mũ 
+
+    số mũ 10 được biểu diễn trong c++ bằng e hoặc E
+hằng số float
+ 
+    ta phải dùng chữ f hoặc F cho số thập phân để biểu thị kiểu float vd: 34.55f
+thư viện
+    
